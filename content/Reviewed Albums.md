@@ -1,16 +1,17 @@
 - [[DIVISIONS]] 
 - [[Deadwing]]  
-- [[Drones]] !
-- [[From Mars To Sirius]] !
 - [[LONG SEASON]] 
 - [[Showbiz]]
 - [[Ten]]
 - [[DAMN.]] 
-- [[The Division Bell]] !
 - [[The Great War]] 
-- [[The Heart of Everything]] !
 - [[VANISHING ACT II; ULTIMATE REALITY]] 
-- [[SMILE ;D]] !
-
+## Currently reviewing:
+- [[Drones]]
+- [[From Mars To Sirius]]
+- [[The Division Bell]]
+- [[SMILE ;D]]
+- [[The Heart of Everything]]
+This is a test
 
 #music
