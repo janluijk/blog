@@ -1,0 +1,4 @@
+## Reviewed Albums
+- [[Ten]] 
+
+#music
