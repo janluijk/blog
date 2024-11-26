@@ -3,15 +3,19 @@
 - [[LONG SEASON]] 
 - [[Showbiz]]
 - [[Ten]]
-- [[DAMN.]] 
 - [[The Great War]] 
 - [[VANISHING ACT II; ULTIMATE REALITY]] 
 ## Currently reviewing:
 - [[Drones]]
+- [[DAMN.]] 
 - [[From Mars To Sirius]]
+- [[World on Fire]] 
+- [[Fear of a Blank Planet]] 
 - [[The Division Bell]]
-- [[SMILE ;D]]
+- [[SMILE! ;D]]
 - [[The Heart of Everything]]
 
-This is a test
+## To Review in the Future
+Here is a [[Full list of saved albums|link]] to the full list of albums that I want to review.
+
 #music

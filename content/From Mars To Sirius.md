@@ -13,12 +13,7 @@ This album is a made by [[Gojira]].
 - From Mars
 - To Sirius
 - Global Warming
-## Notable tracks
-
 ## Review
-- Unicorn is peaceful
-- Accessible death/prog metal.
-
 
 ## Genre
 According to RateYourMusic, the genre of this album is [[Progressive Metal]], [[Death Metal]]. 

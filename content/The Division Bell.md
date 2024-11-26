@@ -12,8 +12,6 @@ This album is a made by [[Pink Floyd]].
 - Keep Talking
 - Lost for Words
 - High Hopes
-## Notable tracks
-
 ## Review
 
 ## Genre

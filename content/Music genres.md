@@ -49,6 +49,7 @@ This is a list of all the genres directly or indirectly mentioned in the [[Revie
 - [[Ragtime]] 
 - [[Rhythm & Blues]] 
 - [[Rock]] 
+- [[Reggae]] 
 - [[Shoegaze]]
 - [[Soul]] 
 - [[Space Rock]] 

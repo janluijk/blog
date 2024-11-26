@@ -2,8 +2,6 @@
 This album is a made by [[Nirvana]] 
 ## Tracklist
 
-## Notable tracks
-
 ## Review
 
 ## Genre

@@ -15,8 +15,6 @@ This album is a made by [[Kendrick Lamar]].
 - FEAR.
 - GOD.
 - DUCKWORTH.
-## Notable tracks
-
 ## Review
 
 ## Genre

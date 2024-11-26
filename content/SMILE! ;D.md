@@ -2,8 +2,6 @@
 This album is a made by [[Porter Robinson]].
 ## Tracklist
 
-## Notable tracks
-
 ## Review
 
 ## Genre

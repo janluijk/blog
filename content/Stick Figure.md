@@ -1,6 +1,6 @@
 ## About
 
 ## Reviewed Albums
-- [[SMILE! ;D]] 
+- [[World on Fire]] 
 
 #music

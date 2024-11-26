@@ -14,13 +14,14 @@ This album is a made by [[Muse]].
 - The Globalist
 - Drones
 
-## Notable tracks
+## Review
+WIP
+
+great tracks:
 - Dead Inside 
 - Drones
 - Reapers!
 - The Handler
-## Review
-
 ## Genre
 According to RateYourMusic, the genre of this album is [[Alternative Rock]].
 
