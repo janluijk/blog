@@ -1,6 +1,1 @@
-## About
-
-## Reviewed Albums
-- [[World on Fire]] 
-
-#music
+/home/jan/personal/personal-vault/notes/music/Stick Figure.md

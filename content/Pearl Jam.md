@@ -1,4 +1,1 @@
-## Reviewed Albums
-- [[Ten]] 
-
-#music
+/home/jan/personal/personal-vault/notes/music/Pearl Jam.md

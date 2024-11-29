@@ -1,5 +1,1 @@
-## Reviewed Albums
-- [[Deadwing]] 
-- [[Fear of a Blank Planet]] 
-
-#music
+/home/jan/personal/personal-vault/notes/music/Porcupine Tree.md

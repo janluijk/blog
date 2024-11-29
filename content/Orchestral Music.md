@@ -1,8 +1,1 @@
-## Description
-[[Western Classical Music]] performed by an orchestra. 
-## Albums
-- 
-
-View all [[Music genres]].
-
-#music 
+/home/jan/personal/personal-vault/notes/music/Orchestral Music.md

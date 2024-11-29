@@ -1,7 +1,1 @@
-## About
-
-## Reviewed Albums
-- [[DAMN.]] 
-
-
-#music
+/home/jan/personal/personal-vault/notes/music/Kendrick Lamar.md

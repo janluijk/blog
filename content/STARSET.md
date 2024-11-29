@@ -1,5 +1,1 @@
-Reviewed Albums
-- [[DIVISIONS]] 
-
-
-#music
+/home/jan/personal/personal-vault/notes/music/STARSET.md

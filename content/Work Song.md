@@ -1,8 +1,1 @@
-## Description
-Sung by laborers and prisoners while working in factories and fields. 
-## Albums
-- 
-
-View all [[Music genres]].
-
-#music 
+/home/jan/personal/personal-vault/notes/music/Work Song.md

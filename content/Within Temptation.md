@@ -1,3 +1,1 @@
-## Reviewed albums
- - [[The Heart of Everything]] 
-#music
+/home/jan/personal/personal-vault/notes/music/Within Temptation.md

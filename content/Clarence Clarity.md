@@ -1,4 +1,1 @@
-## Reviewed Albums
-- [[VANISHING ACT II; ULTIMATE REALITY]]
-
-#music
+/home/jan/personal/personal-vault/notes/music/Clarence Clarity.md

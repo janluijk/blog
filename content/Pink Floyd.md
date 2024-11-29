@@ -1,4 +1,1 @@
-## Reviewed albums
-- [[The Division Bell]]
-
-#music
+/home/jan/personal/personal-vault/notes/music/Pink Floyd.md

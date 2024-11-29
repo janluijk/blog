@@ -1,8 +1,1 @@
-## Description
-Relies on the chords/scales and instrumental improvisation of [[Blues]] . 
-## Albums
-- 
-
-View all [[Music genres]].
-
-#music 
+/home/jan/personal/personal-vault/notes/music/Blues Rock.md

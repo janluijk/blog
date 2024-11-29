@@ -1,7 +1,1 @@
-## Description
-Rock which incorporates elements resembling [[Orchestral Music]]. 
-## Albums
-- 
-
-View all [[Music genres]].
-#music
+/home/jan/personal/personal-vault/notes/music/Symphonic Rock.md

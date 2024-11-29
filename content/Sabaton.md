@@ -1,4 +1,1 @@
-## Reviewed Albums 
-- [[The Great War]] 
-
-#music
+/home/jan/personal/personal-vault/notes/music/Sabaton.md

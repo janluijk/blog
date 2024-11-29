@@ -1,6 +1,1 @@
-## About
-
-## Reviewed Albums
-- [[SMILE! ;D]] 
-
-#music
+/home/jan/personal/personal-vault/notes/music/Porter Robinson.md

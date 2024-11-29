@@ -1,9 +1,1 @@
-## Description
-Fuses conventional verse-chorus song structure and especially melodic songwriting with usage of guitars, drums, and propulsive rhythms. 
-
-## Albums
-- [[SMILE! ;D]]  
-
-View all [[Music genres]].
-
-#music 
+/home/jan/personal/personal-vault/notes/music/Pop Rock.md

@@ -1,4 +1,1 @@
-## Reviewed albums
-- [[From Mars To Sirius]] 
-
-#music
+/home/jan/personal/personal-vault/notes/music/Gojira.md

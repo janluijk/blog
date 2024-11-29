@@ -1,10 +1,1 @@
-## Band
-This album is a made by [[Nirvana]] 
-## Tracklist
-
-## Review
-
-## Genre
-According to RateYourMusic, the genre of this album is 
-
-#music
+/home/jan/personal/personal-vault/notes/music/Nevermind.md

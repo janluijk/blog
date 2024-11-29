@@ -1,8 +1,1 @@
-## Description
-Artists whose lyrics deal with social issues.
-## Albums
-- [[DAMN.]] 
-
-View all [[Music genres]].
-
-#music 
+/home/jan/personal/personal-vault/notes/music/Conscious Hip Hop.md

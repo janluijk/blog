@@ -1,8 +1,1 @@
-## Description
-Broad category for subgenres mainly derived from [[Disco]], featuring [[Electronic]] sounds, synthesizers, drum machines and varying BPM ranges. 
-## Albums
-- 
-
-View all [[Music genres]].
-
-#music 
+/home/jan/personal/personal-vault/notes/music/Electronic Dance Music.md

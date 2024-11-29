@@ -1,3 +1,1 @@
-## Albums
-
-#music
+/home/jan/personal/personal-vault/notes/music/Sludge Metal.md
